@@ -1,5 +1,7 @@
 # **LAB2 Report**
 
+### **@ Hepecho**
+
 ### 实验目的
 
 - 了解神经网络中的基础模型
@@ -46,6 +48,7 @@ BiLSTM训练集和验证集的loss折线图。
 | BiLSTM | 87.68% |
 
 my:
+
 ![](./fig/img_1.png)
 
 loss图示例：
